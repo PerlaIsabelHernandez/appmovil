@@ -10,3 +10,4 @@ Pantalla de registro
 
 Pantalla de BD 
 
+![bd1](https://user-images.githubusercontent.com/61418460/78951791-f3ac6280-7a98-11ea-91ce-532c43d5e566.jpg)
