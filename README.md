@@ -17,7 +17,9 @@ Se insertan los datos para registrar un usuario
 ![datosRegistro](https://user-images.githubusercontent.com/61418460/78951862-353d0d80-7a99-11ea-860e-c6342746cc00.jpg)
 
 Se muestra un alert en el que se envia el mensaje de que un usuario ha sido registrado
+
 ![registrado](https://user-images.githubusercontent.com/61418460/78951883-3f5f0c00-7a99-11ea-97f1-b015536f6800.jpg)
 
 El usuario ha sido registrado en la base de datos exitosamente
+
 ![bd2](https://user-images.githubusercontent.com/61418460/78951896-4e45be80-7a99-11ea-9902-dff6a01fcc4d.jpg)
